@@ -1,4 +1,4 @@
 plt
 ===
 
-PLSQL Unit Test library
+PLSQL Unit Test Tool
